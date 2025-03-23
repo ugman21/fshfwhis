@@ -1,0 +1,30 @@
+.footer {
+    top: 94%;
+    position: fixed;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.footer p {
+    top: -9px;
+    position: relative;
+}
+
+.counter {
+    position: relative;
+    left: 190px;
+    top: 26px;
+}
+
+.project {
+    width: 350px;
+    position: relative;
+    top: 200px;
+}
